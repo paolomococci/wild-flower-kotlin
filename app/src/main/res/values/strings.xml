@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WildFlower</string>
+    <string name="button">Send</string>
+    <string name="message_received">You are send this message:</string>
+    <string name="main_edit_text">Please, type some message.</string>
+    <string name="text_message">text view</string>
+    <string name="reply_edit_default_text">Typed reply.</string>
+    <string name="replay_text_Button">Reply</string>
+    <string name="text_header_from_reply">Reply text:</string>
+    <string name="text_message_from_reply">Message from reply.</string>
+</resources>
